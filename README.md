@@ -20,3 +20,5 @@ conflict后重新编辑 README.md 为想要的内容：
 第六次添加（在conflict_branch的时候）：sdasdbnxchs
 第七次添加（在conflict_branch的时候，这次在master的README.md里面改不一样的）：
 Eigth change(A new line added by collaborato) : add sth in README.md in hw1_clone (cloned from https://github.com/SusanSong8848/my-git-project.git__)
+
+This is Cui Cuinan's modification from AiYiLe.
